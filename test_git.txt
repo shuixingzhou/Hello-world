@@ -1,2 +1,6 @@
 Now i create a file named test_git.txt in local word dictionary. I just want to whether i can push it to the remote repository or not.
 Now i will do it.
+With code list below:
+git add <filename>
+git commit -m 'Add...'
+git push
